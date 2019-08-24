@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+项目展示地址：https://yangluo17.github.io/Exam/dist/index.html
+
 ``` bash
 # install dependencies
 npm install
